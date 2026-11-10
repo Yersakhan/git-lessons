@@ -1,0 +1,4 @@
+[alias]
+    st = status
+    ci = commit
+    lg = log --oneline
